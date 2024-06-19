@@ -1,0 +1,11 @@
+.TodoBox_Wrapper {
+    display: flex;
+    padding: 2em;
+    border: 1px solid black;
+    margin: 2em
+}
+
+.myBtn {
+    cursor: pointer;
+    margin-left: 2em;
+}
